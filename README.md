@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandipanKhanra
 - 👀 I’m looking for Software Engineer role
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning React
 - 📫 Contact me sandipankhanra@gmail.com
 
 <!---
