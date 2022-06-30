@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandipanKhanra
 - 👀 I’m looking for Software Engineer role
-- 🌱 I’m currently learning React
+- 🌱 Learning React to build interactive UI using "component" based approach
 - 📫 Contact me sandipankhanra@gmail.com
 
 <!---
