@@ -72,7 +72,7 @@
 
 ## 📊 GitHub Stats
 
-![Sandipan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandipanKhanra&show_icons=true&theme=default)
+![Sandipan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandipanKhanra&show_icons=true&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandipanKhanra&layout=compact)
 
 ---
