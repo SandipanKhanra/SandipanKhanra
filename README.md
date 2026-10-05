@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sandipan Khanra
+# Hi 👋, I'm Sandipan
 
 💻 Full-Stack Developer | React • Java • Spring Boot  
 🚀 Passionate about building scalable, clean, and user-focused applications  
