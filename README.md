@@ -33,7 +33,7 @@
 
 ```yaml
 name: Sandipan Khanra
-role: Full-Stack & Backend Software Engineer
+role: Software Engineer
 organization: Ernst & Young (EY)
 location: Pune, India
 core_focus:
