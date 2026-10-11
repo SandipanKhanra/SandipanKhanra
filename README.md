@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Typing SVG Header -->
+ <!-- Typing SVG Header -->
   <a href="https://github.com/SandipanKhanra">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandipan+Khanra;Full-Stack+%26+Backend+Software+Engineer;Building+Scalable%2C+Resilient+Distributed+Systems;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&height=50&lines=Hi,+I+am+Sandipan+Khanra;Software+Engineer;Building+Scalable+Distributed+Systems;Java+|+Spring+Boot+|+Python+|+React" alt="Typing SVG" />
   </a>
 
   <p align="center">
